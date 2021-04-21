@@ -1,2 +1,3 @@
-# NeuronalER
-Interactive image for manuscript
+---
+permalink: /index.html
+---
